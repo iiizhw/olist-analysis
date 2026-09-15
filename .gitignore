@@ -13,4 +13,5 @@ data/output/*
 
 logs/
 *.log
+*.md
 MyLog.md

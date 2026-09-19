@@ -12,6 +12,6 @@ data/processed/*
 data/output/*
 
 logs/
+logs/**/*.md
 *.log
-*.md
 MyLog.md
